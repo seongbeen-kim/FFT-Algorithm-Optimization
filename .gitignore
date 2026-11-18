@@ -1,0 +1,48 @@
+
+# Compiled C/C++ files
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.a
+*.lib
+
+# Debugging files
+*.pdb
+*.ilk
+*.dSYM/
+
+# Build directories
+build/
+bin/
+obj/
+Debug/
+Release/
+cmake-build-*/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.VC.db
+*.VC.opendb
+
+# VS Code
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+*.bak
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Python cache (for future benchmarks)
+__pycache__/
+*.pyc
+.venv/
